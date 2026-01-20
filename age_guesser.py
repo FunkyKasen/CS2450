@@ -3,7 +3,6 @@ import random
 print("Hello! The goal for this app is to try and guess your age!")
 
 name = input("What's your name? ")
-
 ages = list(range(15, 31))
 random.shuffle(ages)
     
