@@ -20,3 +20,13 @@ My team seems to be hard workers and we have gone through and decided to make an
 Roommate Hub. This app is going to be able to solve hopefully the main issues with having roommates.
 Some features this app will have are, cleaning assignments, a way to have documented text messages,
 encrypted messages, and join a household. 
+
+2/15/26 - Weekly update
+
+Back for another weekly update. This week was super busy and I had a lot of work and school.
+Luckily I was able to get everything done for the week. My highlight of the week was installing
+OpenVAS for my ethical hacking class. This program is a really advanced network scanner. But let
+me tell you. This was geniunely awful to install. It took a full three days of troubleshooting, 
+command line and just errors, but I finally got it up and running and it made my week.
+
+
