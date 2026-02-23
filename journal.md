@@ -29,4 +29,12 @@ OpenVAS for my ethical hacking class. This program is a really advanced network 
 me tell you. This was geniunely awful to install. It took a full three days of troubleshooting, 
 command line and just errors, but I finally got it up and running and it made my week.
 
+2/22/26 - Weekly Update
+
+This week was great! I did not have too much homework so I was able to study a little more and 
+focus more time into the few assignments I did have. In this class I am super excited to pitch our
+app to you and the class. I think our app is such a great idea that it can be useful in real life as well.
+There are a few things I cannot think through on how they will work but I still am excited to try. I have a few exams
+coming up in the next few weeks and I am stressed about those but if I start studying now they shouldn't be that bad. 
+
 
