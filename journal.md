@@ -37,4 +37,9 @@ app to you and the class. I think our app is such a great idea that it can be us
 There are a few things I cannot think through on how they will work but I still am excited to try. I have a few exams
 coming up in the next few weeks and I am stressed about those but if I start studying now they shouldn't be that bad. 
 
+3/1/26 - Weekkly Update
 
+This week flew by! I had some cool ethical hacking labs where I learned how to haack server 2016. I also had 
+presentations in this class which I felt like went really good. I feel like our team has a really good chemistry
+and that we are already becoming friends. I am not too excited for next week though because I have way to many exams
+going on. 
