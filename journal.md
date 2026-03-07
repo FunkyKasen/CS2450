@@ -37,9 +37,16 @@ app to you and the class. I think our app is such a great idea that it can be us
 There are a few things I cannot think through on how they will work but I still am excited to try. I have a few exams
 coming up in the next few weeks and I am stressed about those but if I start studying now they shouldn't be that bad. 
 
-3/1/26 - Weekkly Update
+3/1/26 - Weekly Update
 
 This week flew by! I had some cool ethical hacking labs where I learned how to haack server 2016. I also had 
 presentations in this class which I felt like went really good. I feel like our team has a really good chemistry
 and that we are already becoming friends. I am not too excited for next week though because I have way to many exams
 going on. 
+
+3/6/26 - Weekly Update
+
+This week was honestly amazing. We are finally making some really good headway with our roommate hub app. I was able to
+redesign the entire login page. I love facebooks login page so that inspiired me a lot for ours. I had two midterms this week, 
+one a multiple choice and another a practical. I did really well on the multiple choice test, and on the practical I got a 100!
+Next week is spring break so it will be nice to have a little break from it all. Anyways see you next week!
